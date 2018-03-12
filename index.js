@@ -7,8 +7,8 @@ function whisper(string) {
 }
 
 
-function logShout(string) {
-  console.log(logShout)
+function spyOn(string) {
+  console.log(spyOn)
 }
 
 
